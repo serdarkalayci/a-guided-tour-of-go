@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to A -Guided- Tour of Go
 
-You can use the [editor on GitHub](https://github.com/serdarkalayci/a-guided-tour-of-go/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Golang's [A Tour of Go](https://go.dev/tour/welcome/1) is a great starting point for anyone who wants to learn Go. A while back, we started something we call *Golang Dojo* with my colleagues from [Container Solutions](https://github.com/ContainerSolutions) who wants to learn Go from scratch or sharpen their skills in the language. It was a weekly mob-learning session where we mostly followed A Tour of Go. The beauty of mob learning with so many curious minds is there were lots of "What if"s in every example. As the moderator of the Golang Dojo, I summarized each session so anyone who missed the session would catch up later. Then I noticed that, those what if scenarios created a wider and easier to grasp curriculum. So I decided to convert my short summaries into what I call A -Guided- Tour of Go. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/serdarkalayci/a-guided-tour-of-go/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Here, we'll follow A Tour of Go's pages, and while we're on it, we'll create alternatives like "what if we change that line into this" or "what if we delete this block" or "what if we change the order of these blocks".

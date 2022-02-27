@@ -4,5 +4,5 @@ Golang's [A Tour of Go](https://go.dev/tour/welcome/1) is a great starting point
 
 Here, we'll follow A Tour of Go's pages, and while we're on it, we'll create alternatives like "what if we change that line into this" or "what if we delete this block" or "what if we change the order of these blocks". I won't be repeating the explanations that're already on A Tour of Go pages. Instead I'll assume that you've read the explanations there and tried the example that's provided on that page. I'll provide additional information as needed, and some more examples to elaborate more on the subject in hand.
 
-[Start the tour](basics/1-2.md)
+[Start the tour](basics/packages-variables-functions/1-2.md)
 
